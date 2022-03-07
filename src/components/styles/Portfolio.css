@@ -1,0 +1,47 @@
+.testi {
+  background-color: mediumaquamarine;
+  font-family: "Courier New", Courier, monospace;
+  height: 100vh;
+  width: 100%;
+  overflow: hidden;
+  border: 7px solid black;
+}
+
+.testi h1 {
+  display: flex;
+  justify-content: center;
+  margin-top: 6rem;
+}
+
+.cart-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.cart  p a:hover {
+  border-bottom: 3px solid gray;
+}
+
+.cart {
+  display: flex;
+  background-color: blanchedalmond;
+  flex-direction: column;
+  margin-top: 4rem;
+  text-align: center;
+  width: 400px;
+  border: 4px solid black;
+  padding: 10px;
+  height: 500px;
+}
+
+.cart img {
+  width: 100%;
+  border-radius: 100%;
+}
+
+.cart h5 {
+  font-size: 14px;
+  line-height: 25px;
+  color: black;
+}
