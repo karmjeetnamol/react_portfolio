@@ -13,10 +13,6 @@ export default function Second() {
           <img src={project} alt="" />
         </div>
         <div className="text-3">
-          <p></p>
-          <p></p>
-          <p></p>
-          <p></p>
         </div>
       </div>
     </section>

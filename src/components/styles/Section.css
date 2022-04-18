@@ -1,6 +1,6 @@
 .main-section {
   width: 100%;
-  min-height: 100vh;
+  min-height: 10vh;
   background-color: aquamarine;
   font-family: "Courier New", Courier, monospace;
   border: 7px solid black;
@@ -33,7 +33,8 @@
 .texts p {
   border-top: 2px solid grey;
   color:black;
-  width: 70%;
+  width: 60%;
+ margin-bottom: 200px;
   text-transform: uppercase;
 }
 
@@ -54,8 +55,8 @@
 
 .image img {
   margin-top: 5rem;
-  height: 500px;
-  width: 600px;
+  height: 600px;
+  width: 800px;
   object-fit: contain;
 }
 
@@ -66,7 +67,5 @@
     background-color: white;
     font-family: "Courier New", Courier, monospace;
   }
-  /* .container {
 
-    } */
 }
